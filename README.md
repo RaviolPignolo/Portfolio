@@ -10,8 +10,6 @@ Leandro Pérez Pignolo's portfolio
 * Course "Desarrollador de Videojuegos Nivel I" - UTN (Unity and Blender)
 * Course "QA Manual Testing" - Coderhause (Manual Testing)
 * Course "Programón UI Design" (UI Design)
-<img width="4200" height="3170" alt="leandro-perez-pignolo-diseno-ui-desde-cero" src="https://github.com/user-attachments/assets/e7b60d81-f8a3-4178-89fa-1a0a9e28935a" />
-
 
 # Experience
 * Web development
